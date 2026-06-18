@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=200&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%20Competitive%Programmer%20· Full-Stack%20Dev%20·%20IIT%20BHU&descAlignY=58&descColor=c4b5fd" />
+# 👋 Shubham Kumar
+
+### Competitive Programmer · Full-Stack Dev · Systems Tinkerer · IIT (BHU) Varanasi
+
+[![GitHub](https://img.shields.io/badge/GitHub-ShubhamKumar547-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamKumar547)
+[![Institute](https://img.shields.io/badge/IIT%20(BHU)-Varanasi-7c6af7?style=for-the-badge&logoColor=white)](https://iitbhu.ac.in)
+[![CP](https://img.shields.io/badge/Competitive-Programmer-38bdf8?style=for-the-badge&logo=codeforces&logoColor=white)]()
 
 </div>
 
