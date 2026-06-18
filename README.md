@@ -123,7 +123,7 @@ Forked and contributed to a Summer of Code project under UCIL, IIT BHU. Deployed
 
 ---
 
-##  Tech I Reach For
+##  Tech I Learnt
 
 **Languages**
 
