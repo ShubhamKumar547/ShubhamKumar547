@@ -10,13 +10,7 @@
 
 </div>
 
-<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ShubhamKumar547-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamKumar547)
-[![Institute](https://img.shields.io/badge/IIT%20(BHU)-Varanasi-7c6af7?style=for-the-badge&logo=academia&logoColor=white)](https://iitbhu.ac.in)
-[![CP](https://img.shields.io/badge/Competitive-Programmer-38bdf8?style=for-the-badge&logo=codeforces&logoColor=white)]()
-
-</div>
 
 ---
 
