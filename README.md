@@ -2,7 +2,7 @@
 
 # 👋 Shubham Kumar
 
-### Competitive Programmer · Full-Stack Dev · Systems Tinkerer · IIT (BHU) Varanasi
+### Competitive Programmer · Full-Stack Dev  · IIT (BHU) Varanasi
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShubhamKumar547-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamKumar547)
 [![Institute](https://img.shields.io/badge/IIT%20(BHU)-Varanasi-7c6af7?style=for-the-badge&logoColor=white)](https://iitbhu.ac.in)
