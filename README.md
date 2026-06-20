@@ -86,7 +86,7 @@ React + Vite SPA that talks to an AI backend and renders results cleanly. Part o
 </td>
 <td width="50%" valign="top">
 
-###  [sysProbe](https://github.com/ShubhamKumar547/sysProbe)
+###  [Sys_Probe](https://github.com/ShubhamKumar547/Sys_Probe)
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
