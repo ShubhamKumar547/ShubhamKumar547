@@ -8,6 +8,8 @@
 [![Institute](https://img.shields.io/badge/IIT%20(BHU)-Varanasi-7c6af7?style=for-the-badge&logoColor=white)](https://iitbhu.ac.in)
 [![CP](https://img.shields.io/badge/Competitive-Programmer-38bdf8?style=for-the-badge&logo=codeforces&logoColor=white)]()
 
+[GitHub](https://github.com/ShubhamKumar547) | [Codeforces](https://codeforces.com/profile/shubham.kumar.24) | [LeetCode](https://leetcode.com/u/shubham_kumar08/)
+
 </div>
 
 
